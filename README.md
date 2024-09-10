@@ -1,2 +1,2 @@
-# clinical-bioinformatics-2022
+# Summer School in Clinical Bioinformatics
 tutorial and exercise material for the summer school of clinical bioinformatics
